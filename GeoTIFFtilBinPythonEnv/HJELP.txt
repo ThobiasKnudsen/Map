@@ -1,9 +1,0 @@
-hensikten med denne mappen er at du kan konvertere GeoTIFF filer fra hoydedata.no til bin filer som 
-kart programmet kan lese. dette kan kun konvertere DTM 1 og DOM 1. se på nettsiden under landsdekkende
-
-for å konvertere GeoTIFF filer til bin filer:
-	(vær i denne mappen i cmd)
-	> .\Scripts\activate
-	> python makeBinFromGeoTIFF.py DTMmappe DOMmappe destinasjonsMappe
-
-destinasjonsMappen er den mappen to må legge in milKart.
